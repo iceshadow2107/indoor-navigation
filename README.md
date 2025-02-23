@@ -22,7 +22,7 @@ Arduino版本為2.3.4<br>
 [Arduino下載網址，參考資料：Arduino IDE官網](<https://www.arduino.cc/en/software>)
 
 ESP32的韌體版本為MicroPython 1.23.0<br>
-[Thonny Python IDE下載，參考資料：Thonny Python官網](<https://micropython.org/download/esp32/>)
+[Thonny Python IDE下載，參考資料：Thonny Python官網](<https://micropython.org/download/esp32/>)<br>
 下載Thonny Python IDE完成後，啟動Thonny Python IDE<br> 
 1. 下載esptool，路徑如下：<br>
 Tools -> Manage plug-ins -> search esptool -> install<br> 
