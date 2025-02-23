@@ -1,19 +1,23 @@
 # indoor-navigation
-這個是給視障者在陌生的室內環境進行導航時，提供一項可以參考的工具<br> 
+這個是給視障者在陌生的室內環境進行導航時，提供一項可以參考的工具，給iOS APP開發新手學習Xcode介面控制<br> 
 本專案硬體適用於ESP32-S之型號、iBeacon與應用iPhone13進行開發<br>
 韌體版本為iOS 18.2, ESP32內建版本為MicroPython 1.23.0
 
-## 本專案使用指南
+## 目錄
+-[安裝與版本確認指南](#安裝與版本確認指南)
+-[專案成果展示](#專案成果展示)
+
+## 安裝與版本確認指南
 ### 0 iBeacon對應APP下載(若有需要者可以看txt檔)
 
-### 1-1.確認Xcode版本 & Swift版本
+### 1-1 確認Xcode版本 & Swift版本
 Xcode版本是否為16.2<br>
 Xcode 版本可以透過功能列的Xcode -> About Xcode中找到
 
 Swift版本為6.0<br>
 Swift 版本可以在終端機以swift -version這個指令進行查找 
 
-### 1-2.確認Arduino與ESP32版本
+### 1-2 確認Arduino與ESP32版本
 Arduino版本為2.3.4<br>
 [Arduino下載網址](<https://www.arduino.cc/en/software>)
 
@@ -31,7 +35,10 @@ ESP32的軟體版本為3.1.1<br>
 從開發板管理員去尋找ESP32找到Espressif的ESP32，下載3.1.1版本即可<br>
 [ESP32版本參考網址](<https://github.com/espressif/arduino-esp32>)
 
-### 2.即可下載本專案
+### 2 即可下載本專案
 
+### 3 相關補充資料
+[Xcode介面](<https://www.youtube.com/watch?v=JQSkZ908zVo>)
 ***
-## 本專案成效
+## 專案成果展示
+
